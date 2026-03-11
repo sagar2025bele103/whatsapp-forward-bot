@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-group-forwarder",
+  "version": "1.0.0",
+  "description": "Forward messages from Rajasthan Vacancy 37 to Exam Alert groups",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.0",
+    "dotenv": "^16.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
